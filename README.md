@@ -2,7 +2,7 @@
 
 ### CLI Tool
 
-#### For Scan Single port type 
+#### For Scan Single port  
 
 ```
 python scanner.py host port
